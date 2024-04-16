@@ -10,7 +10,8 @@
 Hey there! I'm Serenity, a passionate Software Developer from sunny Fl. I love to go to the beach, springs, kyak, read, paddle board, go to concets and theme parks-pretty much anything outdoors when its not deathly hot. I am  always eager to learn and explore new things!
 
 
-Im curently fluent in [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite, react, swift, typescript)](https://skillicons.dev) and learning daily.
+Im curently fluent in 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite, react, swift,typescript)](https://skillicons.dev) and learning daily.
 
 
 
