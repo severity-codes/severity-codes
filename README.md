@@ -11,7 +11,11 @@ Hey there! I'm Serenity, a passionate Software Developer from sunny Fl. I love t
 
 
 Im curently fluent in 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,vite)](https://skillicons.dev)
+
+
 and learning daily.
 
 
