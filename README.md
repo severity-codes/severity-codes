@@ -9,11 +9,16 @@
 
 Hey there! I'm Serenity, a passionate Software Developer from sunny Fl. I love to go to the beach, springs, kyak, read, paddle board, go to concets and theme parks-pretty much anything outdoors when its not deathly hot. I am  always eager to learn and explore new things!
 
+
+Im curently fluent in [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite, react, swift, typescript)](https://skillicons.dev) and learning daily.
+
+
+
 ![Severity's GitHub stats](https://github-readme-stats.vercel.app/api?username=severity-codes&show_icons=true&theme=radical)
 
 
 
-Feel free to check out more projects on my Portfolio page!
+Feel free to check out some projects on my Portfolio page!
 
  Let's Connect!
 
