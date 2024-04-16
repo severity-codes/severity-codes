@@ -9,9 +9,7 @@
 
 Hey there! I'm Serenity, a passionate Software Developer from sunny Fl. I love to go to the beach, springs, kyak, read, paddle board, go to concets and theme parks-pretty much anything outdoors when its not deathly hot. I am  always eager to learn and explore new things!
 
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-```
+![Severity's GitHub stats](https://github-readme-stats.vercel.app/api?username=severity-codes&show_icons=true&theme=radical)
 
 
 
