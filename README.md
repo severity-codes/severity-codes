@@ -2,7 +2,8 @@
 
 # Hello, World! 👋
 
-![image](https://github.com/severity-codes/severity-codes/assets/122500980/0c308de9-e747-481e-a5ac-6c538f9b2bb4)
+![image](https://github.com/severity-codes/severity-codes/assets/122500980/8f1b9780-48ec-4e86-9b31-a50a8c31f62f)
+
 
 
 
