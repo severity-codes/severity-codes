@@ -7,7 +7,7 @@
 
 
 
-Hey there! I'm Serenity, a passionate Software Developer from sunny Fl. I love to go to the beach, springs, kyak, read, paddle board, go to concets and theme parks-pretty much anything outdoors when its not deathly hot. I am  always eager to learn and explore new things!
+Hey there! I'm Serenity, a passionate Software Developer from sunny FL . I love to go to the beach, springs, Kayak, read, paddle board, and concert hop, pretty much anything outdoors. That is , when its not deathly hot. I am  always eager to learn and explore new things!
 
 
 Im curently fluent in 
