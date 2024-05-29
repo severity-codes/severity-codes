@@ -34,7 +34,8 @@ Feel free to check out some projects on my Portfolio page!
  Let's Connect!
 
 
-- 🌱 I’m currently learning X-code
+- 🌱 I’m currently learning Swift
+- 
 - 💬 Ask me about Game of Thrones.
 
 
