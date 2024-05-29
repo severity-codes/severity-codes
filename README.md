@@ -8,16 +8,20 @@
 
 
 
-Hey there! I'm Serenity, a passionate Software Developer from sunny FL . I love to go to the beach, springs, Kayak, read, paddle board, and concert hop, pretty much anything outdoors. That is , when its not deathly hot. I am  always eager to learn and explore new things!
+Hey there! I'm Serenity, a passionate Software Developer hailing from sunny Florida. When I'm not coding, you can find me enjoying the great outdoors—whether it's at the beach, exploring springs, kayaking, reading, paddle boarding, or concert hopping. I'm always on the lookout for new adventures, especially when it's not too hot outside.
 
 
-Im curently fluent in 
+
+Feel free to explore my portfolio to see some of my projects and get a sense of what I can do. I'm always eager to connect with like-minded individuals and explore exciting opportunities. Let's create something amazing together!
+
+I'm currently fluent in several programming languages and technologies, including.
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,vite,nodejs,firebase)](https://skillicons.dev)
 
 
-and learning daily.
+Every day, I strive to learn something new and expand my expertise.
 
 
 
@@ -30,7 +34,7 @@ Feel free to check out some projects on my Portfolio page!
  Let's Connect!
 
 
-- 🌱 I’m currently learning User Auth
+- 🌱 I’m currently learning X-code
 - 💬 Ask me about Game of Thrones.
 
 
